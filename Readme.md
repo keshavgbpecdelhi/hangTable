@@ -1,6 +1,6 @@
 # HangTable
 
-Hello World! We would like to introduce you to a new, fun, and easy way of learning. Educate your child in a fun way by playing games,where your child learn with a game spirit.
+Hello World! We would like to introduce you to a new, fun, and easy way of learning. Educate your child in a fun way by playing games, where your child learn with a game spirit.
 
 ## 💡 Inspiration
 
@@ -10,15 +10,15 @@ Hello World! We would like to introduce you to a new, fun, and easy way of learn
 ## 💻 How it Works?
 
 - Head on over to the website and view the options
-- click on the table which you would like to learn
+- Click on the table which you would like to learn
 - Learn the table within a given time period
 - Test yourself by playing game
-- get your score and show it to the world
+- Get your score and show it to the world
 
 ## ⚙️ How we built it
 
-- Frontend: React JS, HTML, CSSn
-- vercel: Deployment
+- Frontend: React JS, HTML, CSS
+- Vercel: Deployment
 - GitHub: Collaboration, Hosting 
 - Tools: Git
 
